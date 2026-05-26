@@ -265,25 +265,25 @@ Foco analítico e detalhado:
 ## Visão Executiva
 
 ```md
-![Visão Executiva](./Images/visao_executiva.png)
+![Visão Executiva](Images/visao_executiva.png)
 ```
 
 ## Visão por Fornecedor
 
 ```md
-![Visão por Fornecedor](./Images/fornecedores.png)
+![Visão por Fornecedor](Images/fornecedores.png)
 ```
 
 ## Visão por Produto
 
 ```md
-![Visão por Produto](./Images/produtos.png)
+![Visão por Produto](Images/produtos.png)
 ```
 
 ## Visão por Filial
 
 ```md
-![Visão por Filial](./Images/filial.png)
+![Visão por Filial](Images/filial.png)
 ```
 
 ---
